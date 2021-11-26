@@ -1,0 +1,8 @@
+#invorement variables
+.env
+
+#node dependences
+node_modules
+
+#build folder
+dist
